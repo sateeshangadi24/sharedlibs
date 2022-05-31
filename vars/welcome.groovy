@@ -1,6 +1,6 @@
 def call(name){
   echo"Hey ${name},How are you???"
 }
-def cal(num){
+def get(num){
   echo"the number is ${num}"
 }

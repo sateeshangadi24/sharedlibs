@@ -1,7 +1,7 @@
 def call(name){
   echo"Hey ${name},How are you???"
 }
-def call(num){
+def cal(num){
   if(num>0){
     for(int i=0;i<num;i++){
       echo"iam printing ${num}"
